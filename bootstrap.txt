@@ -1,0 +1,21 @@
+Bootstrap has a system to divide the page into 12 columns. You can then decide how many of those 12 columns each item will take.
+
+<div class="row"> — This makes a row (a horizontal line across the page).
+
+<div class="col-xs-8"> — This means "this column takes 8 out of 12 columns on extra small screens and up."
+
+<div class="col-xs-4"> — This means "this column takes 4 out of 12 columns on extra small screens and up."
+Font Awesome is a library of icons—like thumbs-up 👍, heart ❤️, user 👤, etc.—that you can add to your webpage.
+
+Instead of using image files, you use HTML elements with special classes to show icons.
+
+🛠 How to Use a Font Awesome Icon
+You use an <i> tag (or <span>) with special class names.
+
+Example:
+
+<i class="fas fa-thumbs-up"></i>
+fas → Stands for Font Awesome Solid (a style of icon).
+
+fa-thumbs-up → The specific icon (👍 thumbs-up).
+
