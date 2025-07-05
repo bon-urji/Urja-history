@@ -19,3 +19,5 @@ fas → Stands for Font Awesome Solid (a style of icon).
 
 fa-thumbs-up → The specific icon (👍 thumbs-up).
 
+waayee form irraa deebihii hubadhu
+
